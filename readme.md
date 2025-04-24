@@ -4,3 +4,5 @@ to remove a local branch --> git branch -d dev
 
 to remove a remote branch --> git push origin :dev
                           --> git push origin :test
+
+to checkout another branch without commit changes --> git stash
